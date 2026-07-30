@@ -1,0 +1,1213 @@
+[
+    {
+        "name": ".52 Gal",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "52_gal.png"
+    },
+    {
+        "name": ".52 Gal Deco",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Splattercolor Screen",
+        "image": "52_gal_deco.png"
+    },
+    {
+        "name": ".96 Gal",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Ink Vac",
+        "image": "96_gal.png"
+    },
+    {
+        "name": ".96 Gal Deco",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Kraken Royale",
+        "image": "96_gal_deco.png"
+    },
+    {
+        "name": "Clawz .96 Gal",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Tacticooler",
+        "image": "clawz_96_gal.png"
+    },
+    {
+        "name": "Sploosh-o-matic",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "sploosh_o_matic.png"
+    },
+    {
+        "name": "Neo Sploosh-o-matic",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "neo_sploosh_o_matic.png"
+    },
+    {
+        "name": "Squeezer",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Trizooka",
+        "image": "squeezer.png"
+    },
+    {
+        "name": "Foil Squeezer",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Splattercolor Screen",
+        "image": "foil_squeezer.png"
+    },
+    {
+        "name": "Hero Shot Replica",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Trizooka",
+        "image": "hero_shot_replica.png"
+    },
+    {
+        "name": "Jet Squelcher",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Ink Vac",
+        "image": "jet_squelcher.png"
+    },
+    {
+        "name": "Jet Squelcher COB-R",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Triple Splashdown",
+        "image": "jet_squelcher_cob_r.png"
+    },
+    {
+        "name": "Custom Jet Squelcher",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Ink Storm",
+        "image": "custom_jet_squelcher.png"
+    },
+    {
+        "name": "Custom Splattershot Jr.",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Wave Breaker",
+        "image": "custom_splattershot_jr.png"
+    },
+    {
+        "name": "N-ZAP '85",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Tacticooler",
+        "image": "n_zap_85.png"
+    },
+    {
+        "name": "N-ZAP '89",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Super Chump",
+        "image": "n_zap_89.png"
+    },
+    {
+        "name": "Octo Shot Replica",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "octo_shot_replica.png"
+    },
+    {
+        "name": "Order Shot Replica",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Trizooka",
+        "image": "order_shot_replica.png"
+    },
+    {
+        "name": "Splattershot Pro",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Crab Tank",
+        "image": "splattershot_pro.png"
+    },
+    {
+        "name": "Forge Splattershot Pro",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Booyah Bomb",
+        "image": "forge_splattershot_pro.png"
+    },
+    {
+        "name": "Splattershot Pro FRZ-N",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Tenta Missiles",
+        "image": "splattershot_pro_frz_n.png"
+    },
+    {
+        "name": "Aerospray MG",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Reefslider",
+        "image": "aerospray_mg.png"
+    },
+    {
+        "name": "Aerospray RG",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Booyah Bomb",
+        "image": "aerospray_rg.png"
+    },
+    {
+        "name": "Colorz Aerospray",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Splattercolor Screen",
+        "image": "colorz_aerospray.png"
+    },
+    {
+        "name": "Splash-o-matic",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "splash_o_matic.png"
+    },
+    {
+        "name": "Splash-o-matic GCK-O",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Ink Storm",
+        "image": "splash_o_matic_gck_o.png"
+    },
+    {
+        "name": "Neo Splash-o-matic",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "neo_splash_o_matic.png"
+    },
+    {
+        "name": "Splattershot Nova",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "splattershot_nova.png"
+    },
+    {
+        "name": "Annaki Splattershot Nova",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Inkjet",
+        "image": "annaki_splattershot_nova.png"
+    },
+    {
+        "name": "Splattershot",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Trizooka",
+        "image": "splattershot.png"
+    },
+    {
+        "name": "Tentatek Splattershot",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "tentatek_splattershot.png"
+    },
+    {
+        "name": "Glamorz Splattershot",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Kraken Royale",
+        "image": "glamorz_splattershot.png"
+    },
+    {
+        "name": "Splattershot Jr.",
+        "weapon_class": "Shooters",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Big Bubbler",
+        "image": "splattershot_jr.png"
+    },
+    {
+        "name": "Clash Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Trizooka",
+        "image": "clash_blaster.png"
+    },
+    {
+        "name": "Clash Blaster Neo",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Super Chump",
+        "image": "clash_blaster_neo.png"
+    },
+    {
+        "name": "Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Big Bubbler",
+        "image": "blaster.png"
+    },
+    {
+        "name": "Custom Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Triple Splashdown",
+        "image": "custom_blaster.png"
+    },
+    {
+        "name": "Gleamz Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Crab Tank",
+        "image": "gleamz_blaster.png"
+    },
+    {
+        "name": "Range Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Wave Breaker",
+        "image": "range_blaster.png"
+    },
+    {
+        "name": "Custom Range Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Kraken Royale",
+        "image": "custom_range_blaster.png"
+    },
+    {
+        "name": "Luna Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "luna_blaster.png"
+    },
+    {
+        "name": "Luna Blaster Neo",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "luna_blaster_neo.png"
+    },
+    {
+        "name": "Order Blaster Replica",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "order_blaster_replica.png"
+    },
+    {
+        "name": "Rapid Blaster",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Triple Inkstrike",
+        "image": "rapid_blaster.png"
+    },
+    {
+        "name": "Rapid Blaster Deco",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Inkjet",
+        "image": "rapid_blaster_deco.png"
+    },
+    {
+        "name": "Rapid Blaster Pro",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Ink Vac",
+        "image": "rapid_blaster_pro.png"
+    },
+    {
+        "name": "Rapid Blaster Pro Deco",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "rapid_blaster_pro_deco.png"
+    },
+    {
+        "name": "Rapid Blaster Pro WNT-R",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Tacticooler",
+        "image": "rapid_blaster_pro_wnt_r.png"
+    },
+    {
+        "name": "S-BLAST '91",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Booyah Bomb",
+        "image": "s_blast_91.png"
+    },
+    {
+        "name": "S-BLAST '92",
+        "weapon_class": "Blaster",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Reefslider",
+        "image": "s_blast_92.png"
+    },
+    {
+        "name": "H-3 Nozzlenose",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Tacticooler",
+        "image": "h_3_nozzlenose.png"
+    },
+    {
+        "name": "H-3 Nozzlenose D",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Big Bubbler",
+        "image": "h_3_nozzlenose_d.png"
+    },
+    {
+        "name": "H-3 Nozzlenose VIP-R",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "h_3_nozzlenose_vip_r.png"
+    },
+    {
+        "name": "L-3 Nozzlenose",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "l_3_nozzlenose.png"
+    },
+    {
+        "name": "L-3 Nozzlenose D",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "l_3_nozzlenose_d.png"
+    },
+    {
+        "name": "Glitterz L-3 Nozzlenose",
+        "weapon_class": "Nozzlenoses",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Inkjet",
+        "image": "glitterz_l_3_nozzlenose.png"
+    },
+    {
+        "name": "Dualie Squelchers",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Wave Breaker",
+        "image": "dualie_squelchers.png"
+    },
+    {
+        "name": "Custom Dualie Squelchers",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Super Chump",
+        "image": "custom_dualie_squelchers.png"
+    },
+    {
+        "name": "Hoofz Dualie Squelchers",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Splattercolor Screen",
+        "image": "hoofz_dualie_squelchers.png"
+    },
+    {
+        "name": "Douser Dualies FF",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "douser_dualies_ff.png"
+    },
+    {
+        "name": "Custom Douser Dualies FF",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "custom_douser_dualies_ff.png"
+    },
+    {
+        "name": "Glooga Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Booyah Bomb",
+        "image": "glooga_dualies.png"
+    },
+    {
+        "name": "Glooga Dualies Deco",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Trizooka",
+        "image": "glooga_dualies_deco.png"
+    },
+    {
+        "name": "Splat Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "splat_dualies.png"
+    },
+    {
+        "name": "Enperry Splat Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Triple Splashdown",
+        "image": "enperry_splat_dualies.png"
+    },
+    {
+        "name": "Twinklez Splat Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Big Bubbler",
+        "image": "twinklez_splat_dualies.png"
+    },
+    {
+        "name": "Order Dualie Replicas",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "order_dualie_replicas.png"
+    },
+    {
+        "name": "Dark Tetra Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Reefslider",
+        "image": "dark_tetra_dualies.png"
+    },
+    {
+        "name": "Light Tetra Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Zipcaster",
+        "image": "light_tetra_dualies.png"
+    },
+    {
+        "name": "Dapple Dualies",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Tacticooler",
+        "image": "dapple_dualies.png"
+    },
+    {
+        "name": "Dapple Dualies Nouveau",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Reefslider",
+        "image": "dapple_dualies_nouveau.png"
+    },
+    {
+        "name": "Dapple Dualies NOC-T",
+        "weapon_class": "Dualies",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "dapple_dualies_noc_t.png"
+    },
+    {
+        "name": "Carbon Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Zipcaster",
+        "image": "carbon_roller.png"
+    },
+    {
+        "name": "Carbon Roller ANG-L",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Super Chump",
+        "image": "carbon_roller_ang_l.png"
+    },
+    {
+        "name": "Carbon Roller Deco",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Trizooka",
+        "image": "carbon_roller_deco.png"
+    },
+    {
+        "name": "Dynamo Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Tacticooler",
+        "image": "dynamo_roller.png"
+    },
+    {
+        "name": "Starz Dynamo Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "starz_dynamo_roller.png"
+    },
+    {
+        "name": "Gold Dynamo Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Super Chump",
+        "image": "gold_dynamo_roller.png"
+    },
+    {
+        "name": "Order Roller Replica",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Big Bubbler",
+        "image": "order_roller_replica.png"
+    },
+    {
+        "name": "Splat Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Big Bubbler",
+        "image": "splat_roller.png"
+    },
+    {
+        "name": "Krak-On Splat Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Kraken Royale",
+        "image": "krak_on_splat_roller.png"
+    },
+    {
+        "name": "Flingza Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Tenta Missiles",
+        "image": "flingza_roller.png"
+    },
+    {
+        "name": "Foil Flingza Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Splattercolor Screen",
+        "image": "foil_flingza_roller.png"
+    },
+    {
+        "name": "Big Swig Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Ink Vac",
+        "image": "big_swig_roller.png"
+    },
+    {
+        "name": "Big Swig Roller Express",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Ink Storm",
+        "image": "big_swig_roller_express.png"
+    },
+    {
+        "name": "Planetz Big Swig Roller",
+        "weapon_class": "Rollers",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Triple Splashdown",
+        "image": "planetz_big_swig_roller.png"
+    },
+    {
+        "name": "Painbrush",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Wave Breaker",
+        "image": "painbrush.png"
+    },
+    {
+        "name": "Painbrush BRN-Z",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Trizooka",
+        "image": "painbrush_brn_z.png"
+    },
+    {
+        "name": "Painbrush Nouveau",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Tenta Missiles",
+        "image": "painbrush_nouveau.png"
+    },
+    {
+        "name": "Octobrush",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "octobrush.png"
+    },
+    {
+        "name": "Octobrush Nouveau",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Ink Storm",
+        "image": "octobrush_nouveau.png"
+    },
+    {
+        "name": "Cometz Octobrush",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Kraken Royale",
+        "image": "cometz_octobrush.png"
+    },
+    {
+        "name": "Orderbrush Replica",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "orderbrush_replica.png"
+    },
+    {
+        "name": "Inkbrush",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "inkbrush.png"
+    },
+    {
+        "name": "Inkbrush Nouveau",
+        "weapon_class": "Brushes",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Ultra Stamp",
+        "image": "inkbrush_nouveau.png"
+    },
+    {
+        "name": "Mint Decavitator",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Big Bubbler",
+        "image": "mint_decavitator.png"
+    },
+    {
+        "name": "Charcoal Decavitator",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Inkjet",
+        "image": "charcoal_decavitator.png"
+    },
+    {
+        "name": "Splatana Wiper",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Ultra Stamp",
+        "image": "splatana_wiper.png"
+    },
+    {
+        "name": "Splatana Wiper Deco",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Tenta Missiles",
+        "image": "splatana_wiper_deco.png"
+    },
+    {
+        "name": "Splatana Wiper RUS-T",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Trizooka",
+        "image": "splatana_wiper_rus_t.png"
+    },
+    {
+        "name": "Splatana Stamper",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "splatana_stamper.png"
+    },
+    {
+        "name": "Stickerz Splatana Stamper",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Booyah Bomb",
+        "image": "stickerz_splatana_stamper.png"
+    },
+    {
+        "name": "Splatana Stamper Nouveau",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Crab Tank",
+        "image": "splatana_stamper_nouveau.png"
+    },
+    {
+        "name": "Order Splatana Replica",
+        "weapon_class": "Splatanas",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Zipcaster",
+        "image": "order_splatana_replica.png"
+    },
+    {
+        "name": "Bamboozler 14 Mk I",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "bamboozler_14_mk_i.png"
+    },
+    {
+        "name": "Bamboozler 14 Mk II",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Super Chump",
+        "image": "bamboozler_14_mk_ii.png"
+    },
+    {
+        "name": "E-liter 4K",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Wave Breaker",
+        "image": "e_liter_4k.png"
+    },
+    {
+        "name": "Custom E-liter 4K",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Kraken Royale",
+        "image": "custom_e_liter_4k.png"
+    },
+    {
+        "name": "E-liter 4K Scope",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Wave Breaker",
+        "image": "e_liter_4k_scope.png"
+    },
+    {
+        "name": "Custom E-liter 4K Scope",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Kraken Royale",
+        "image": "custom_e_liter_4k_scope.png"
+    },
+    {
+        "name": "Order Charger Replica",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Ink Vac",
+        "image": "order_charger_replica.png"
+    },
+    {
+        "name": "Snipewriter 5B",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Ink Storm",
+        "image": "snipewriter_5b.png"
+    },
+    {
+        "name": "Snipewriter 5H",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Tacticooler",
+        "image": "snipewriter_5h.png"
+    },
+    {
+        "name": "Goo Tuber",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Tenta Missiles",
+        "image": "goo_tuber.png"
+    },
+    {
+        "name": "Custom Goo Tuber",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "custom_goo_tuber.png"
+    },
+    {
+        "name": "Splat Charger",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Ink Vac",
+        "image": "splat_charger.png"
+    },
+    {
+        "name": "Z+F Splat Charger",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Triple Inkstrike",
+        "image": "zf_splat_charger.png"
+    },
+    {
+        "name": "Splat Charger CAM-O",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Crab Tank",
+        "image": "splat_charger_cam_o.png"
+    },
+    {
+        "name": "Splatterscope",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Ink Vac",
+        "image": "splatterscope.png"
+    },
+    {
+        "name": "Z+F Splatterscope",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Triple Inkstrike",
+        "image": "zf_splatterscope.png"
+    },
+    {
+        "name": "Splatterscope CAM-O",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Crab Tank",
+        "image": "splatterscope_cam_o.png"
+    },
+    {
+        "name": "Classic Squiffer",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Big Bubbler",
+        "image": "classic_squiffer.png"
+    },
+    {
+        "name": "New Squiffer",
+        "weapon_class": "Chargers",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Zipcaster",
+        "image": "new_squiffer.png"
+    },
+    {
+        "name": "Slosher",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "slosher.png"
+    },
+    {
+        "name": "Slosher Deco",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Zipcaster",
+        "image": "slosher_deco.png"
+    },
+    {
+        "name": "Explosher",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Ink Storm",
+        "image": "explosher.png"
+    },
+    {
+        "name": "Custom Explosher",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Triple Splashdown",
+        "image": "custom_explosher.png"
+    },
+    {
+        "name": "Bloblobber",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Ink Storm",
+        "image": "bloblobber.png"
+    },
+    {
+        "name": "Bloblobber Deco",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Kraken Royale",
+        "image": "bloblobber_deco.png"
+    },
+    {
+        "name": "Tri-Slosher",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Inkjet",
+        "image": "tri_slosher.png"
+    },
+    {
+        "name": "Tri-Slosher ASH-N",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Splattercolor Screen",
+        "image": "tri_slosher_ash_n.png"
+    },
+    {
+        "name": "Tri-Slosher Nouveau",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Tacticooler",
+        "image": "tri_slosher_nouveau.png"
+    },
+    {
+        "name": "Dread Wringer",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Reefslider",
+        "image": "dread_wringer.png"
+    },
+    {
+        "name": "Dread Wringer D",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Wave Breaker",
+        "image": "dread_wringer_d.png"
+    },
+    {
+        "name": "Hornz Dread Wringer",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "hornz_dread_wringer.png"
+    },
+    {
+        "name": "Order Slosher Replica",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Triple Inkstrike",
+        "image": "order_slosher_replica.png"
+    },
+    {
+        "name": "Sloshing Machine",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Booyah Bomb",
+        "image": "sloshing_machine.png"
+    },
+    {
+        "name": "Sloshing Machine Neo",
+        "weapon_class": "Sloshers",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Trizooka",
+        "image": "sloshing_machine_neo.png"
+    },
+    {
+        "name": "Heavy Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Wave Breaker",
+        "image": "heavy_splatling.png"
+    },
+    {
+        "name": "Heavy Splatling Deco",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Kraken Royale",
+        "image": "heavy_splatling_deco.png"
+    },
+    {
+        "name": "Heavy Edit Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Tacticooler",
+        "image": "heavy_edit_splatling.png"
+    },
+    {
+        "name": "Heavy Edit Splatling Nouveau",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Splat Bomb",
+        "special_weapon": "Crab Tank",
+        "image": "heavy_edit_splatling_nouveau.png"
+    },
+    {
+        "name": "Hydra Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Booyah Bomb",
+        "image": "hydra_splatling.png"
+    },
+    {
+        "name": "Torrentz Hydra Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Big Bubbler",
+        "image": "torrentz_hydra_splatling.png"
+    },
+    {
+        "name": "Custom Hydra Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Splattercolor Screen",
+        "image": "custom_hydra_splatling.png"
+    },
+    {
+        "name": "Ballpoint Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Fizzy Bomb",
+        "special_weapon": "Inkjet",
+        "image": "ballpoint_splatling.png"
+    },
+    {
+        "name": "Ballpoint Splatling Nouveau",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Ink Vac",
+        "image": "ballpoint_splatling_nouveau.png"
+    },
+    {
+        "name": "Nautilus 47",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Ink Storm",
+        "image": "nautilus_47.png"
+    },
+    {
+        "name": "Nautilus 79",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Suction Bomb",
+        "special_weapon": "Triple Splashdown",
+        "image": "nautilus_79.png"
+    },
+    {
+        "name": "Order Splatling Replica",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Wave Breaker",
+        "image": "order_splatling_replica.png"
+    },
+    {
+        "name": "Mini Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Burst Bomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "mini_splatling.png"
+    },
+    {
+        "name": "Zink Mini Splatling",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Big Bubbler",
+        "image": "zink_mini_splatling.png"
+    },
+    {
+        "name": "Mini Splatling RTL-R",
+        "weapon_class": "Splatlings",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Trizooka",
+        "image": "mini_splatling_rtl_r.png"
+    },
+    {
+        "name": "Recycled Brella 24 Mk I",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Big Bubbler",
+        "image": "recycled_brella_24_mk_i.png"
+    },
+    {
+        "name": "Recycled Brella 24 Mk II",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Triple Splashdown",
+        "image": "recycled_brella_24_mk_ii.png"
+    },
+    {
+        "name": "Tenta Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Squid Beakon",
+        "special_weapon": "Ink Vac",
+        "image": "tenta_brella.png"
+    },
+    {
+        "name": "Tenta Brella CRE-M",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Super Chump",
+        "image": "tenta_brella_cre_m.png"
+    },
+    {
+        "name": "Tenta Sorella Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Trizooka",
+        "image": "tenta_sorella_brella.png"
+    },
+    {
+        "name": "Order Brella Replica",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Triple Inkstrike",
+        "image": "order_brella_replica.png"
+    },
+    {
+        "name": "Splat Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Triple Inkstrike",
+        "image": "splat_brella.png"
+    },
+    {
+        "name": "Sorella Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Inkjet",
+        "image": "sorella_brella.png"
+    },
+    {
+        "name": "Undercover Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Ink Mine",
+        "special_weapon": "Reefslider",
+        "image": "undercover_brella.png"
+    },
+    {
+        "name": "Patternz Undercover Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "patternz_undercover_brella.png"
+    },
+    {
+        "name": "Undercover Sorella Brella",
+        "weapon_class": "Brellas",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Splattercolor Screen",
+        "image": "undercover_sorella_brella.png"
+    },
+    {
+        "name": "Wellstring V",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Autobomb",
+        "special_weapon": "Ultra Stamp",
+        "image": "wellstring_v.png"
+    },
+    {
+        "name": "Custom Wellstring V",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Point Sensor",
+        "special_weapon": "Wave Breaker",
+        "image": "custom_wellstring_v.png"
+    },
+    {
+        "name": "REEF-LUX 450",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Curling Bomb",
+        "special_weapon": "Tenta Missiles",
+        "image": "reef_lux_450.png"
+    },
+    {
+        "name": "REEF-LUX 450 Deco",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Splash Wall",
+        "special_weapon": "Reefslider",
+        "image": "reef_lux_450_deco.png"
+    },
+    {
+        "name": "REEF-LUX 450 MIL-K",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Torpedo",
+        "special_weapon": "Booyah Bomb",
+        "image": "reef_lux_450_mil_k.png"
+    },
+    {
+        "name": "Order Stringer Replica",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "order_stringer_replica.png"
+    },
+    {
+        "name": "Tri-Stringer",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Toxic Mist",
+        "special_weapon": "Killer Wail 5.1",
+        "image": "tri_stringer.png"
+    },
+    {
+        "name": "Inkline Tri-Stringer",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Sprinkler",
+        "special_weapon": "Super Chump",
+        "image": "inkline_tri_stringer.png"
+    },
+    {
+        "name": "Bulbz Tri-Stringer",
+        "weapon_class": "Stringers",
+        "sub_weapon": "Angle Shooter",
+        "special_weapon": "Inkjet",
+        "image": "bulbz_tri_stringer.png"
+    }
+]
